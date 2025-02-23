@@ -211,10 +211,10 @@
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/miclav">
-            <img src="https://avatars.githubusercontent.com/u/11891522?v=4" width="80;" alt="miclav"/>
+        <a href="https://github.com/0n1cOn3">
+            <img src="https://avatars.githubusercontent.com/u/27576311?v=4" width="80;" alt="0n1cOn3"/>
             <br />
-            <sub><b>Michael Lavaire</b></sub>
+            <sub><b>0n1cOn3</b></sub>
         </a>
     </td></tr>
 </table>
